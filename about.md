@@ -3,20 +3,15 @@ layout: about
 title: About
 ---
 
-## Welcome to Techekeh University
+## Who is Emmanuel Ekeh
 
-## Why Techekeh
+Emmanuel Ekeh is a smart brilliant minded individual, approachable and is passionate about tech, investment and online business.
+He is also a B.Sc holder in information technolgy from the national open university nigeria.
 
-It is basically an online tech training university to build you and generation of tech giants globally.
+## About what i do
 
-## How to join
-
-All that is needed is an open mind to learn and a hunger to succeed,you don't need any prior requirement to enroll.
-
-## What we do
-
-we work hard to prepare every student for a great professional tech life, we hold your hand and show you step by step on what to do to get maximuim result.
+Emmanuel Ekeh help interested people make money online through affiliate marketing , crypto trading and tech investment. 
 
 ## Contact
 
-if you are interested? check our website (techekeh.github.io) follow our twitter handle (@emmanuel_ekeh_) and on linkedin (https://www.linkedin.com/in/emmanuel-ekeh-54b1a4105)
+if you are interested? check out the website (techekeh.github.io) Twitter handle (@emmanuel_ekeh_) and on Linkedin (https://www.linkedin.com/in/emmanuel-ekeh-54b1a4105)
