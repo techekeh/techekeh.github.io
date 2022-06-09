@@ -7,9 +7,6 @@ title: About
 
 Emmanuel Ekeh is a smart brilliant minded individual, approachable and is passionate about tech, investment and online business.
 He is also a B.Sc holder in information technolgy from the national open university nigeria.
-
-## About what i do
-
 Emmanuel Ekeh help interested people make money online through affiliate marketing , crypto trading and tech investment. 
 
 ## Contact
